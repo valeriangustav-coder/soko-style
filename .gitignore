@@ -22,6 +22,7 @@ dist-ssr
 
 # Wrangler / Cloudflare
 .wrangler/
+.netlify/
 .dev.vars
 
 # Editor directories and files
